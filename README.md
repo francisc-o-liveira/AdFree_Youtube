@@ -64,7 +64,7 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
 
 ## Star Activity
 
-[![Star History Chart](https://api.star-history.com/svg?repos=example/AdFreeYouTube&type=Date)](https://star-history.com/#example/AdFreeYouTube&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=1230684-isep/AdFree_Youtube&type=Date)](https://star-history.com/#1230684-isep/AdFree_Youtube&Date)
 
 ---
 
