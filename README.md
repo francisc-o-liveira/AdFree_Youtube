@@ -9,6 +9,7 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
     - [For Chrome Users](#for-chrome-users)
     - [For Edge Users](#for-edge-users)
     - [For Firefox Users](#for-firefox-users)
+    - [For Opera Users](#for-opera-users)
   - [Upcoming Features](#upcoming-features)
   - [Star Activity](#star-activity)
   - [Contributing](#contributing)
@@ -18,7 +19,7 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
 
 ## How to Install
 
-**Step 1:** [Download the latest release](link) or clone this repository to your local machine.  
+**Step 1:** [Download the latest release](https://github.com/1230684-isep/AdFree_Youtube/releases) or clone this repository to your local machine.  
 **Step 2:** If you downloaded a ZIP file, extract it using tools like WinRAR or 7-Zip.  
 **Step 3:** Follow the browser-specific installation steps below.
 
@@ -42,6 +43,14 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
 1. Scroll down and enable **Developer Mode**.  
 2. Click **Load unpacked** and choose the extension folder.  
 3. Confirm the extension is active and test it on YouTube.
+
+### For Opera Users
+
+1. Go to `opera://extensions` in your Opera browser.
+2. Enable **Developer Mode** using the toggle in the top-right corner.
+3. Click the **Load unpacked** button.
+4. Select the folder containing the extracted extension files.
+5. Confirm the extension is enabled and start enjoying YouTube without ads.
 
 
 **Manual Installation:**
