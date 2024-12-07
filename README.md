@@ -18,7 +18,7 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
 
 ## How to Install
 
-**Step 1:** [Download the latest release](https://github.com/example/AdFreeYouTube/releases) or clone this repository to your local machine.  
+**Step 1:** [Download the latest release](link) or clone this repository to your local machine.  
 **Step 2:** If you downloaded a ZIP file, extract it using tools like WinRAR or 7-Zip.  
 **Step 3:** Follow the browser-specific installation steps below.
 
@@ -72,9 +72,6 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
 
 Contributions are welcome! Fork this repository, implement your feature or bug fix, and submit a pull request. Together, we can make YouTube a better place.  
 
-[![](https://contrib.rocks/image?repo=example/AdFreeYouTube)](https://github.com/example/AdFreeYouTube/graphs/contributors)
-
----
 
 ## Support
 
