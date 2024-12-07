@@ -39,9 +39,9 @@ Welcome to the **Ad-Free YouTube Experience** repository! This extension ensures
 
 ### For Firefox Users
 
-2. Scroll down and enable **Developer Mode**.  
-3. Click **Load unpacked** and choose the extension folder.  
-4. Confirm the extension is active and test it on YouTube.
+1. Scroll down and enable **Developer Mode**.  
+2. Click **Load unpacked** and choose the extension folder.  
+3. Confirm the extension is active and test it on YouTube.
 
 
 **Manual Installation:**
